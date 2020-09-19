@@ -19,14 +19,14 @@ I'm a student on the last course of IT University. Now I'm going to become a Fro
 *(2019 – 2021)*
 
 **Military Education Center SPbSUT**
- * **Reserve Officer in Lieutenant Rank**   
+ * Reserve Officer in **Lieutenant** Rank   
  *(2018-2020)*
 
 **Self-education:**
 * Completed [Stepik: Программирование на Python](https://stepik.org/cert/291509)
 * Completed [Stepik: Основы статистики](https://stepik.org/cert/322781)   
 
-Also I passed the next parts of this courses *Python:основы и применение*, *Основы статистики Ч2 и Ч3*, but without practice and some parts of courses about Machine Learning and Neural Networks. In my univercity I graduated elective course about video postproduction in Adobe After Effects. 
+Also I passed the next parts of this courses *Python: Основы и Применение*, *Основы статистики: Ч2 и Ч3*, but without practice and some parts of courses about Machine Learning and Neural Networks. In my univercity I graduated elective course about video postproduction in Adobe After Effects. 
 
 ## English level is B2
 
