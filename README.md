@@ -1,1 +1,1 @@
-https://artifexer.github.io/rsschool-cv/cv
+https://artifexer.github.io/rsschool-cv/
